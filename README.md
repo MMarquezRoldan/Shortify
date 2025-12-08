@@ -4,21 +4,21 @@ Un script sencillo y eficiente en Python para acortar enlaces directamente desde
 
 ## Características
 
-- **Rápido:** Acorta enlaces en segundos desde la terminal.
-- **Global:** Funciona desde cualquier carpeta usando el comando `shortify`.
-- **Sin API Key:** Usa `is.gd` (vía `pyshorteners`), por lo que no requiere registro.
-- **Manejo de Errores:** Detecta problemas de conexión y sugiere el uso de comillas para URLs complejas.
+- **Fast:** Shorten links in seconds directly from the terminal.
+- **Global:** Works from any folder using the `shortify` command.
+- **No API Key:** Uses `is.gd` (via `pyshorteners`), so no registration is required.
+- **Error Handling:** Detects connection issues and suggests using quotes for complex URLs.
 
-## Requisitos
+## Requirements
 
-- Python 3.x instalado.
-- Librería `pyshorteners`.
+- Python 3.x installed.
+- `pyshorteners` library.
 
-## Instalación
+## Installation
 
-### 1. Instalar dependencias
+### 1. Install Dependencies
 
-Abre tu terminal y ejecuta:
+Open your terminal and run:
 
 ```bash
 pip install pyshorteners

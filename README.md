@@ -60,7 +60,7 @@ For standard links, simply type:
 
 Bash
 
-`   shortify [https://www.google.com](https://www.google.com)   `
+`   shortify https://www.google.com   `
 
 ### Complex URLs (YouTube, Queries)
 
@@ -68,7 +68,7 @@ If the URL contains special characters like &, ?, or =, **you must use quotes**.
 
 Bash
 
-`   shortify "[https://www.youtube.com/watch?v=VIDEOID&t=10s](https://www.youtube.com/watch?v=VIDEOID&t=10s)"   `
+`   shortify "https://www.youtube.com/watch?v=VIDEOID&t=10s"   `
 
 Troubleshooting
 ---------------

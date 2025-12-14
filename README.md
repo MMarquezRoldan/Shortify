@@ -32,7 +32,7 @@ Create a dedicated folder (e.g., C:\\Scripts) and place the following two files 
 
 **File 2: shortify.bat (The launcher)**Create a file named shortify.bat with the following content:
 
-`   @echo off  python "%~dp0acortar.py" %*   `
+`   @echo off  python "%~dp0shortify.py" %*   `
 
 ### 3\. Configure System Path
 
